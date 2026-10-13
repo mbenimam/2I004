@@ -1,4 +1,4 @@
-# 2I004 · Computer architecture, from logic gates to a CPU
+# Computer architecture, from logic gates to a CPU
 
 This repository is my work for the computer architecture course (2I004) at Sorbonne University. It follows one idea from the ground up: a computer is a lot of very simple switches, arranged in layers, and each layer makes the next one possible. I built the circuits in Logisim, wrote the programs in MIPS assembly, and kept the reports that explain each step.
 
