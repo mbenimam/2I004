@@ -40,9 +40,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <lib desc="file#TME2.circ" name="7"/>
-  <lib desc="file#TME1.circ" name="8"/>
-  <lib desc="file#TME3.circ" name="9"/>
+  <lib desc="file#adder-subtractor-4bit.circ" name="7"/>
+  <lib desc="file#multiplexers-and-coffee-machine.circ" name="8"/>
+  <lib desc="file#alu-and-comparator.circ" name="9"/>
   <main name="Registre 4 bits"/>
   <options>
     <a name="gateUndefined" val="ignore"/>

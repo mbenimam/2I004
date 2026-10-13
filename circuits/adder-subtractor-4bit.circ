@@ -21,7 +21,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <lib desc="file#TME1.circ" name="7"/>
+  <lib desc="file#multiplexers-and-coffee-machine.circ" name="7"/>
   <main name="ADD 1 bit"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
